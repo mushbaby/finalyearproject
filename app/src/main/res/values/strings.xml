@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Test1</string>
+
+    <string-array name="timeframes">
+    <item>Select the time you are available</item>
+    <item>7-9AM</item>
+    <item>9-11AM</item>
+    <item>11-1PM</item>
+    <item>2-4PM</item>
+    <item>4-6PM</item>
+</string-array>
+<string-array name="services">
+<item>Select services</item>
+<item>Barber</item>
+<item>Salon</item>
+
+
+</string-array>
+<string-array name="specialization">
+<item>Select specialization</item>
+<item>Haircut</item>
+<item>Hairstyling</item>
+<item>Beauty</item>
+<item>Massage</item>
+
+</string-array></resources>
